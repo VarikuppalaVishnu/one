@@ -11,6 +11,8 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE are done with CI/CD</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">Learn something new everyday</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">Learn something new everyday</h1>
+	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus</h1>
+
 
 
 
