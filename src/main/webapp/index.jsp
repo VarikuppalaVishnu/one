@@ -9,13 +9,9 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	
 	<h1 style="color: pink; font-size: 40px;" align="center">WE are done with CI/CD</h1>
+	<h1 style="color: pink; font-size: 40px;" align="center">Done Mini Project Using Tools Jenkins Nexus Tomact Sonarqube </h1>
 
-	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus</h1>
-	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus using jenkins integration</h1>
-	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus using jenkins integration test</h1>
 
-	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus using jenkins integration test</h1>
-	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus using jenkins integration test</h1>
 
 
 
